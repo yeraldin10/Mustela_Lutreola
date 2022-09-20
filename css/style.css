@@ -2,7 +2,10 @@ nav ul a,
 nav .brand-logo {
   color: #444;
 }
-
+body.darkpagetheme {
+  background-color: #1d2a35!important;
+  color: #ddd!important;
+}
 p {
   line-height: 2rem;
 }
