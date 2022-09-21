@@ -102,8 +102,6 @@ main{
     background: white;
     position: absolute;
     border-radius: 20px;
-    align-items: center;
-    justify-content: center;
 }
 
 .contenedor__login-register form h2{
@@ -121,8 +119,6 @@ main{
     background: #F2F2F2;
     font-size: 16px;
     outline: none;
-    align-items: center;
-    justify-content: center;
 }
 
 .contenedor__login-register form button{
@@ -136,8 +132,6 @@ main{
     color: white;
     outline: none;
     border-radius: 32%;
-    align-items: center;
-    justify-content: center;
 }
 
 
